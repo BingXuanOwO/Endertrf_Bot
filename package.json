@@ -1,0 +1,9 @@
+{
+  "name": "Endertrf_Bot",
+  "version": "0.1.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "oicq": "^2.3.1",
+    "request": "^2.88.2"
+  }
+}
